@@ -21,7 +21,7 @@ git config --global http.proxy http://10.1.118.254:3128  usando no senai pro cau
 echo "ola mundo" >> readme.nd 		escreve dentro do aqrquivo
 cat nome do arquivo 			mostra o que tem dentro do arquivo
 git init				diretorio inicial
-gti commint -m				comentar
+gti commit -m				comentar
 git status				mostra o que houve
 git add					adicona arquivo pra enviar no push
 git show aqrquivo 		detalhes
@@ -36,3 +36,5 @@ git config --global user.name "Your Name"
 git pull		puxa o arquivo da brunch
 git stash		pausa o servico
 git marge 		selecionar o branch
+git branch -d 	deleta a brench
+
