@@ -1,14 +1,14 @@
 comando linux
 
-ls			lista
+ls				lista
 ls -al			lista oculto
 clear 			limpa tela
 mkdir 			ciar pasta	mkdir naosoueu
-cd 			entra na pasta	cd naosoueu
-cd ..			sair da paste
+cd 				entra na pasta	cd naosoueu
+cd..			sair da paste
 rm -r 			apagar pasta	rm -r naosoueu
 touch 			criar arquivo	touch eueu.txt
-cp 			copiar arquivo  cp eueu.txt eueu2.txt
+cp 				copiar arquivo  cp eueu.txt eueu2.txt
 cp arquivo pasta	copia arquivo pra pasta
 mv arquivo pasta	move arquivo
 pwd 			mostrar local ou paht
@@ -26,3 +26,7 @@ git add					adicona arquivo pra enviar no push
 git show aqrquivo 		detalhes
 git push 				enviar pro git
 git log 				status completo
+git clone "http"		clona o arquivo da github
+git diff				
+git branch 				mostra os branch
+git checkout -b 		cria brench e sai do master
