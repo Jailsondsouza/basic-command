@@ -22,5 +22,6 @@ echo "ola mundo" >> readme.nd 		escreve dentro do aqrquivo
 cat nome do arquivo 			mostra o que tem dentro do arquivo
 git init				diretorio inicial
 git status				mostra o que houve
-git add					adicona arquivo
-git show arquivo			detalhes
+git add					adicona arquivo pra enviar no push
+git show arquivo		detalhes
+git push 				enviar pro git
