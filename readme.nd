@@ -23,5 +23,6 @@ cat nome do arquivo 			mostra o que tem dentro do arquivo
 git init				diretorio inicial
 git status				mostra o que houve
 git add					adicona arquivo pra enviar no push
-git show arquivo		detalhes
+git show aqrquivo 		detalhes
 git push 				enviar pro git
+git log 				status completo
