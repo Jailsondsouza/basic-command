@@ -12,6 +12,7 @@ pwd 			mostrar local ou paht
 comando git
 
 git config --global http.proxy http://10.1.118.254:3128  usando no senai pro causa da rede
+git config --global --unset http.proxy  remover proxy
 echo "ola mundo" >> readme.nd 		escreve dentro do aqrquivo
 cat nome do arquivo 			mostra o que tem dentro do arquivo
 git init				diretorio inicial
